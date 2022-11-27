@@ -1,0 +1,49 @@
+body{
+    background-color: #6f4869;
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    margin: auto;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul, ol{
+    list-style: none;
+}
+.nave li a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+.nave > li{
+    float: left;
+}
+.subtitulo{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imagenEstail1{
+    width: 50%;
+    text-align: center;
+}
+.boton{
+    background-color: bisque;
+    padding: 20px 40px;
+    font-size: 30px;
+    color: black;
+    margin: 20px 20px;
+    font-family: cursive;
+}
+.boton:hover{
+    background-color: aqua;
+}
+.nave li a:hover{
+    background-color: #434343;
+}
+
+
+
+
